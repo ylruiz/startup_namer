@@ -1,4 +1,4 @@
-# startup_names
+# startup_namer
 
 A new Flutter project.
 
